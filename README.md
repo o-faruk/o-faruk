@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="OMAR — AI/ML · Systems · Full-Stack" />
+<img src="./omar_hero.svg" width="100%" alt="OMAR — AI/ML · Systems · Full-Stack" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=CS+%40+UConn+%E2%80%9927+%7C+AI+%2F+ML+Concentration;Building+Agents+%26+Agentic+Pipelines;JARVIS+%7C+Recall+%7C+Weird+Internet+Rabbit+Holes;Google+Cloud+AI+Certified+%7C+CodePath+AI201;Open+to+SWE+Internships+%E2%80%94+Fall+%2725+%2F+Summer+%2726" alt="Typing SVG" />
 
