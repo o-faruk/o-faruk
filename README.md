@@ -68,13 +68,13 @@ interests:  ["AI Agents", "Local LLMs", "Youtube", "Building cool stuff"]
 ## `> cat ./stack.json`
 
 <div align="center">
-
-[![Languages](https://skillicons.dev/icons?i=python,js,nodejs,cpp,java,bash&perline=6&theme=dark)](https://skillicons.dev)
-
-[![Frameworks](https://skillicons.dev/icons?i=react,electron,fastapi,linux&perline=4&theme=dark)](https://skillicons.dev)
-
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git&perline=4&theme=dark)](https://skillicons.dev)
-
+  
+[![Stack](https://skillicons.dev/icons?i=python,js,ts,nodejs,java,cpp,bash&perline=7&theme=dark)](https://skillicons.dev)
+ 
+[![Stack](https://skillicons.dev/icons?i=react,electron,fastapi,vite,linux,docker,git&perline=7&theme=dark)](https://skillicons.dev)
+ 
+[![Stack](https://skillicons.dev/icons?i=aws,gcp,dynamodb&perline=7&theme=dark)](https://skillicons.dev)
+ 
 </div>
 
 <div align="center"><img src="./divider_pink.svg" width="700" /></div>
