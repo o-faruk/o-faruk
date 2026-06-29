@@ -12,7 +12,7 @@
 
 </div>
 
-<div align="center"><img src="./divider_cyan.svg" width="700" /></div>
+<div align="center"><img src="./divider_pink.svg" width="700" /></div>
 
 ## `> whoami`
 
@@ -36,7 +36,7 @@ hardware:
 stack:      ["Python", "JavaScript", "Node.js", "C++", "Java", "AWS", "React", "Linux"]
 ```
 
-<div align="center"><img src="./divider_pink.svg" width="700" /></div>
+<div align="center"><img src="./divider_cyan.svg" width="700" /></div>
 
 ## `> ls ./projects --active`
 
@@ -87,7 +87,7 @@ stack:      ["Python", "JavaScript", "Node.js", "C++", "Java", "AWS", "React", "
 
 </div>
 
-<div align="center"><img src="./divider_cyan.svg" width="700" /></div>
+<div align="center"><img src="./divider_pink.svg" width="700" /></div>
 
 ## `> btop --user omar`
 
@@ -100,7 +100,7 @@ stack:      ["Python", "JavaScript", "Node.js", "C++", "Java", "AWS", "React", "
 
 </div>
 
-<div align="center"><img src="./divider_pink.svg" width="700" /></div>
+<div align="center"><img src="./divider_cyan.svg" width="700" /></div>
 
 ## `> tail -f ./now.log`
 
@@ -117,12 +117,10 @@ stack:      ["Python", "JavaScript", "Node.js", "C++", "Java", "AWS", "React", "
 [WARN]  Sleep schedule ........... undefined....
 ```
 
-<div align="center"><img src="./divider_yellow.svg" width="700" /></div>
-
 <div align="center">
 
 [![Visitors](https://komarev.com/ghpvc/?username=o-faruk&style=for-the-badge&color=FF2D78&labelColor=0A0A0F&label=DATA_RUNNERS)](https://github.com/o-faruk)
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=1000&color=F9E900&center=true&vCenter=true&width=500&lines=building+agents+%26+going+down+rabbit+holes.;_" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=1000&color=F9E900&center=true&vCenter=true&width=500&lines=lets+start+building.;_" alt="footer" />
 
 </div>
