@@ -1,0 +1,119 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OMAR">
+  <defs>
+    <style>
+      @keyframes omSweep { 0% { transform: translateY(-80px); } 100% { transform: translateY(280px); } }
+      @keyframes omBlink { 0%, 45% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes omDot   { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+      @keyframes omBar   { 0% { transform: translateX(-12px); opacity: 0.55; } 50% { opacity: 1; } 100% { transform: translateX(12px); opacity: 0.55; } }
+      @keyframes omFlick { 0%, 96%, 100% { opacity: 0.9; } 97% { opacity: 0.55; } 98% { opacity: 1; } }
+      .om-sweep { animation: omSweep 4.2s linear infinite; }
+      .om-cur   { animation: omBlink 1.05s steps(1) infinite; }
+      .om-dot   { animation: omDot   1.6s ease-in-out infinite; }
+      .om-bar   { animation: omBar   3.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .om-mag   { animation: omFlick 6s   ease-in-out infinite; }
+    </style>
+
+    <radialGradient id="om-vig" cx="50%" cy="44%" r="72%">
+      <stop offset="52%" stop-color="#0A0A0F" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0A0A0F" stop-opacity="0.92"/>
+    </radialGradient>
+
+    <pattern id="om-grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0 H0 V34" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+
+    <pattern id="om-scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1" fill="#000000" opacity="0.22"/>
+    </pattern>
+
+    <linearGradient id="om-sweepg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00F0FF" stop-opacity="0.14"/>
+      <stop offset="1"   stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="om-barg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#FF2D78" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF2D78" stop-opacity="1"/>
+      <stop offset="1"   stop-color="#FFE600" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="om-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="om-soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="1.4"/>
+    </filter>
+    <filter id="om-halo" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+
+    <!-- Stroked letter paths: O M A R -->
+    <g id="om-word" fill="none" stroke="currentColor" stroke-width="16"
+       stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2">
+      <!-- O -->
+      <g transform="translate(175,58)">
+        <path d="M30,8 L70,8 L92,38 L92,110 L70,140 L30,140 L8,110 L8,38 Z"/>
+      </g>
+      <!-- M -->
+      <g transform="translate(325,58)">
+        <path d="M8,140 L8,8 L50,78 L92,8 L92,140"/>
+      </g>
+      <!-- A -->
+      <g transform="translate(475,58)">
+        <path d="M8,140 L46,8 L54,8 L92,140"/>
+        <path d="M28,94 L72,94"/>
+      </g>
+      <!-- R -->
+      <g transform="translate(625,58)">
+        <path d="M18,8 L18,140 M18,8 L64,8 L92,30 L64,72 L18,72 M56,72 L92,140"/>
+      </g>
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="#0A0A0F"/>
+  <rect width="900" height="280" fill="url(#om-grid)"/>
+  <rect width="900" height="280" fill="url(#om-vig)"/>
+
+  <!-- Sweep line -->
+  <rect class="om-sweep" x="0" y="0" width="900" height="70" fill="url(#om-sweepg)"/>
+
+  <!-- Letter layers: halo → soft cyan → flicker pink → crisp white -->
+  <use href="#om-word" color="#00F0FF" filter="url(#om-halo)" opacity="0.35"/>
+  <use href="#om-word" color="#00F0FF" filter="url(#om-soft)" opacity="0.9" style="mix-blend-mode:screen"/>
+  <use href="#om-word" class="om-mag" color="#FF2D78" filter="url(#om-soft)" opacity="0.9" style="mix-blend-mode:screen"/>
+  <use href="#om-word" color="#EAFEFF" filter="url(#om-glow)"/>
+
+  <!-- Animated bar under letters -->
+  <rect x="183" y="214" width="534" height="2" rx="1" fill="#FF2D78" opacity="0.25"/>
+  <rect class="om-bar" x="183" y="213" width="534" height="3" rx="1.5" fill="url(#om-barg)"/>
+
+  <!-- HUD corner brackets -->
+  <g fill="none" stroke="#00F0FF" stroke-width="1.5" opacity="0.8">
+    <path d="M14,40 L14,14 L40,14"/>
+    <path d="M860,14 L886,14 L886,40"/>
+    <path d="M14,240 L14,266 L40,266"/>
+    <path d="M860,266 L886,266 L886,240"/>
+  </g>
+
+  <!-- HUD text labels -->
+  <g font-family="'Share Tech Mono', 'Courier New', monospace" font-size="10.5" letter-spacing="1.5">
+    <text x="46"  y="22"  fill="#00F0FF" opacity="0.7">O-FARUK.EXE</text>
+    <text x="854" y="22"  fill="#00F0FF" opacity="0.7" text-anchor="end">SYS://ONLINE</text>
+    <circle class="om-dot" cx="864" cy="18.5" r="3" fill="#39FF7A"/>
+    <text x="854" y="262" fill="#FFE600" opacity="0.7" text-anchor="end">BUILD//2027</text>
+    <text x="46"  y="262" fill="#FF2D78" opacity="0.75">LOC: HARTFORD.CT</text>
+  </g>
+
+  <!-- Subtitle row -->
+  <g font-family="'Share Tech Mono', 'Courier New', monospace" font-size="15" letter-spacing="4">
+    <text x="450" y="241" text-anchor="middle">
+      <tspan fill="#FFE600">&gt; AI/ML</tspan><tspan fill="#5b6470">  ::  </tspan><tspan fill="#EAFEFF">SYSTEMS</tspan><tspan fill="#5b6470"> // </tspan><tspan fill="#EAFEFF">FULL-STACK</tspan><tspan class="om-cur" fill="#00F0FF"> _</tspan>
+    </text>
+  </g>
+
+  <!-- Scanline overlay -->
+  <rect width="900" height="280" fill="url(#om-scan)" pointer-events="none"/>
+</svg>
