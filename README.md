@@ -2,7 +2,7 @@
 
 <img src="./omar_hero.svg" width="100%" alt="OMAR — AI/ML · Systems · Full-Stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=CS+%40+UConn+%7C+AI%2FML+Concentration+%7C+Class+of+%2728;Building+Agents+%26+Agentic+Pipelines;JARVIS+%7C+Recall+%7C+Weird+Internet+Rabbit+Holes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=CS+%40+UConn+%7C+AI%2FML+Concentration+%7C+Class+of+%2728;Building+Agents+%26+Agentic+Pipelines;JARVIS+%7C+Recall+%7C+Premier+League+Predictor" alt="Typing SVG" />
 
 <br/>
 
@@ -28,36 +28,28 @@ education:
 current_work:
   - "JARVIS       — Electron/React/Node.js desktop AI assistant · agentic tool use"
   - "Recall       — Serverless AWS RAG document search · Lambda + Bedrock + DynamoDB"
-  - "Youtube      — AI-generated YouTube channel · end-to-end agentic pipeline"
-interests:  ["AI Agents", "Local LLMs", "Youtube", "Building cool stuff"]
+interests:  ["AI Agents", "Local LLMs", "Building cool stuff"]
 ```
 
 <div align="center"><img src="./divider_cyan.svg" width="700" /></div>
 
 ## `> ls ./projects --active`
 
-**[JARVIS](https://github.com/o-faruk)** — Desktop AI Assistant
+**[JARVIS](https://github.com/o-faruk/Jarvis)** — Desktop AI Assistant
 > Keyboard-summoned (`Ctrl+Space`) Electron overlay with an agentic tool-use loop. Reads/edits files, drives your real browser over CDP, does cited web research, controls apps, and narrates every step — with cost-aware routing across Claude Haiku / Sonnet / Opus.
  
 `Electron` `React` `Node.js` `Anthropic Claude` `Puppeteer` `CDP`
  
 ---
  
-**[Recall](https://github.com/o-faruk)** — Serverless RAG Document Search
+**[Recall](https://github.com/o-faruk/Recall)** — Serverless RAG Document Search
 > Fully serverless RAG pipeline on AWS. Upload → chunk → embed → query. Semantic search over your own docs with cited answers, backed by Pinecone vectors and Claude-generated responses. Auth via Amazon Cognito.
  
 `AWS Lambda` `S3` `DynamoDB` `Pinecone` `Anthropic Claude` `Gemini Embeddings` `React` `AWS Amplify` `Amazon Cognito`
 
 ---
 
-**[Weird Internet Rabbit Holes](https://github.com/o-faruk)** — AI YouTube Channel
-> End-to-end agentic content pipeline: topic research → script generation → AI voiceover → visuals → edited video. Hosted by a black pixelated MS Paint stick figure. Everything from ideation to upload is orchestrated through Claude Code.
- 
-`Claude Code` `Python` `Google Whisk` `ElevenLabs` `DaVinci Resolve` `yt-dlp`
-
----
-
-**[Premier League Match Predictor](https://github.com/o-faruk)**
+**[Premier League Match Predictor](https://github.com/o-faruk/Premier-League-Match-Predictor)**
 > Random Forest classifier trained on 1,300+ EPL matches. 68% precision on match outcomes. Feature engineering from Selenium-scraped live stats + Pandas pipelines.
 
 `Python` `Scikit-learn` `Selenium` `Pandas` `Random Forest`
@@ -97,7 +89,6 @@ interests:  ["AI Agents", "Local LLMs", "Youtube", "Building cool stuff"]
 ```
 [WORK]  JARVIS ................... Electron AI desktop assistant · active
 [WORK]  Recall ................... Serverless AWS RAG · active
-[WORK]  Youtube .................. AI YouTube channel · pipeline operational
 [INFO]  UConn .................... CS + AI/ML · Class of 2028 · Hartford, CT
 [LIVE]  Local LLMs ............... qwen2.5-coder:14b + deepseek-r1:14b via Ollama
 [WARN]  Sleep schedule ........... undefined....
