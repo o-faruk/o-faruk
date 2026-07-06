@@ -66,7 +66,7 @@ interests:  ["AI engineering", "Developer tooling", "Fitness", "Car performance 
  
 [![Stack](https://skillicons.dev/icons?i=react,electron,fastapi,vite,linux,docker,git&perline=7&theme=dark)](https://skillicons.dev)
  
-[![Stack](https://skillicons.dev/icons?i=aws,gcp,dynamodb&perline=7&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=aws,gcp,dynamodb,postgres&perline=7&theme=dark)](https://skillicons.dev)
  
 </div>
 
