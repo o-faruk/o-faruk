@@ -2,7 +2,7 @@
 
 <img src="./omar_hero.svg" width="100%" alt="OMAR — AI/ML · Systems · Full-Stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=CS+%40+UConn+%7C+AI%2FML+Concentration+%7C+Class+of+%2728;Building+Agents+%26+Agentic+Pipelines;mcp-x-ray+%7C+JARVIS+%7C+Chronos+%7C+Recall" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=CS+%40+UConn+%7C+AI%2FML+Concentration+%7C+Class+of+%2728;Building+Agents+%26+Agentic+Pipelines;MCP-X-RAY+%7C+JARVIS+%7C+Chronos+%7C+Prometheus" alt="Typing SVG" />
 
 <br/>
 
@@ -52,31 +52,12 @@ interests:  ["AI engineering", "Developer tooling", "Fitness", "Car performance 
 
 ---
 
-**[JARVIS](https://github.com/o-faruk/Jarvis)** — Desktop AI Assistant
-> Keyboard-summoned (`Ctrl+Space`) Electron overlay with an agentic tool-use loop. Reads/edits files, drives your real browser over CDP, does cited web research, controls apps, and narrates every step — with cost-aware routing across Claude Haiku / Sonnet / Opus.
-
-`Electron` `React` `Node.js` `Anthropic Claude` `Puppeteer` `CDP`
-
----
-
-**[Recall](https://github.com/o-faruk/Recall)** — Serverless RAG Document Search
-> Fully serverless RAG pipeline on AWS. Upload → chunk → embed → query. Semantic search over your own docs with cited answers, backed by Pinecone vectors and Claude-generated responses. Auth via Amazon Cognito.
-
-`AWS Lambda` `S3` `DynamoDB` `Pinecone` `Anthropic Claude` `Gemini Embeddings` `React` `AWS Amplify` `Amazon Cognito`
-
----
-
 **[Prometheus](https://github.com/o-faruk/Prometheus)** — Real-Time Grid Stress Forecasting
 > Live grid monitoring across three U.S. regions (CAISO, ERCOT, PJM). Ingests EIA + weather data hourly and forecasts demand with LightGBM, beating EIA's own forecast in 2 of 3 regions — served via a live API and dashboard.
 
 `Python` `FastAPI` `LightGBM` `Prophet` `TimescaleDB` `Docker` `React` `Caddy`
 
 ---
-
-**[ItemDrop](https://itemdrop.cc)** — Item Shop Price Tracker
-> Live, deployed price-tracking web app for online stores, with product data ingestion and Amazon affiliate monetization built in.
-
-`Next.js` `Supabase` `Clerk` `Resend` `Vercel`
 
 <div align="center"><img src="./divider_yellow.svg" width="700" /></div>
 
@@ -102,19 +83,6 @@ interests:  ["AI engineering", "Developer tooling", "Fitness", "Car performance 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=o-faruk&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0F&title_color=00F0FF&text_color=EAFEFF" alt="top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=o-faruk&hide_border=true&background=0A0A0F&stroke=00F0FF&ring=FF2D78&fire=FFE600&currStreakLabel=00F0FF&sideLabels=EAFEFF&currStreakNum=EAFEFF&sideNums=EAFEFF&dates=5B6470" alt="streak" />
-
-</div>
-
-## `> tail -f ./now.log`
-
-```
-[WORK]  mcp-x-ray ................ MCP security scanner · benchmarking against community servers
-[WORK]  Chronos .................. Orbital conjunction screening · in progress
-[WORK]  JARVIS ................... Electron AI desktop assistant · active
-[LIVE]  ItemDrop ................. itemdrop.cc · deployed
-[INFO]  UConn .................... CS + AI/ML · Class of 2028 · Hartford, CT
-[WARN]  Sleep schedule ........... undefined....
-```
 
 <div align="center"><img src="./divider_yellow.svg" width="700" /></div>
 
