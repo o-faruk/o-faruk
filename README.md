@@ -31,7 +31,6 @@ current_work:
   - "JARVIS       — Electron/React/Node.js desktop AI assistant · agentic tool use"
   - "Recall       — Serverless AWS RAG document search · Lambda + Bedrock + DynamoDB"
   - "Prometheus   — Real-time grid stress forecasting · LightGBM + FastAPI + TimescaleDB"
-interests:  ["AI engineering", "Developer tooling", "Fitness", "Car performance & tuning"]
 ```
 
 <div align="center"><img src="./divider_cyan.svg" width="700" /></div>
