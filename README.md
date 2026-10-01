@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./new.svg" width="448" alt="AI/ML · Systems · Full-Stack" />
+<img src="./omar_hero.svg" width="1000" alt="AI/ML · Systems · Full-Stack" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ofaruk.dev-FFE600?style=for-the-badge&labelColor=0D1117&logoColor=00F0FF)](https://ofaruk.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-FF2D78?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FF2D78)](https://linkedin.com/in/omar-faruko)
