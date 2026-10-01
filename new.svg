@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448" height="80" viewBox="0 0 448 80" role="img" aria-label="AI/ML, systems, full-stack">
+  <rect x="0.5" y="0.5" width="447" height="79" rx="12" fill="#0A0A0F" stroke="#00F0FF" stroke-opacity="0.18"/>
+
+  <g transform="translate(46 40)" fill="none" stroke-width="1.5" stroke-linecap="round">
+    <circle r="25" stroke="#5B6470" stroke-width="1" stroke-dasharray="2 5"/>
+    <path d="M-16 0 A16 4.2 0 0 1 16 0" stroke="#FF2D78" stroke-opacity="0.55" transform="rotate(-20)"/>
+    <circle r="9" fill="#0A0A0F" stroke="#00F0FF"/>
+    <path d="M-16 0 A16 4.2 0 0 0 16 0" stroke="#FF2D78" transform="rotate(-20)"/>
+    <circle cx="25" cy="0" r="2.3" fill="#FFE600" stroke="none">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M0 0 A25 25 0 1 1 -50 0 A25 25 0 1 1 0 0"/>
+    </circle>
+  </g>
+
+  <text x="98" y="45.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#EAFEFF" letter-spacing="3" xml:space="preserve">AI/ML<tspan fill="#5B6470"> · </tspan>SYSTEMS<tspan fill="#5B6470"> · </tspan>FULL-STACK</text>
+</svg>
