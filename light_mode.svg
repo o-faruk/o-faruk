@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="510" viewBox="0 0 1010 510" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="16px" role="img" aria-label="Omar Faruk, GitHub profile card">
+<style>text,tspan{white-space:pre}.text{fill:#4c4f69}.art{fill:#5c5f77}.user{fill:#8839ef}.key{fill:#fe640b}.value{fill:#1e66f5}.dots{fill:#9ca0b0}.add{fill:#40a02b}.delete{fill:#d20f39}</style>
+<rect x="0.5" y="0.5" width="1009" height="509" rx="14" fill="#eff1f5" stroke="#ccd0da"/>
+<text class="art" xml:space="preserve">
+<tspan x="15" y="30">     .             +        .</tspan>
+<tspan x="15" y="50"> *         .           .        *</tspan>
+<tspan x="15" y="70">       +                  *</tspan>
+<tspan x="15" y="90">   *           \   /         .</tspan>
+<tspan x="15" y="110">       .        \_/       .</tspan>
+<tspan x="15" y="130">                 |</tspan>
+<tspan x="15" y="150">    _________   _|_   _________</tspan>
+<tspan x="15" y="170">   |_|_|_|_|_|=|   |=|_|_|_|_|_|</tspan>
+<tspan x="15" y="190">   |_|_|_|_|_|=|[o]|=|_|_|_|_|_|</tspan>
+<tspan x="15" y="210">   |_|_|_|_|_|=|___|=|_|_|_|_|_|</tspan>
+<tspan x="15" y="230">  +             /|\           .</tspan>
+<tspan x="15" y="250"> .                               .</tspan>
+<tspan x="15" y="270">  '.       *                   .'</tspan>
+<tspan x="15" y="290">    ' .                     . '</tspan>
+<tspan x="15" y="310">       ' - . _ _ _ _ _ . - '</tspan>
+<tspan x="15" y="330">   +          .              *</tspan>
+<tspan x="15" y="350">           _.-'''''''-._</tspan>
+<tspan x="15" y="370">        .-'   .:::.  .  '-.</tspan>
+<tspan x="15" y="390">      .'  .::::::::.  ':.  '.</tspan>
+<tspan x="15" y="410">    /  .::::::::::'   ':::.   \</tspan>
+<tspan x="15" y="430">   /   ':::::::::'     .:::::' \</tspan>
+<tspan x="15" y="450">  |     ':::::'     ..  '::::'  |</tspan>
+<tspan x="15" y="470">  |       ':.     ':::.         |</tspan>
+<tspan x="15" y="490">  |  .::.          '::.     .   |</tspan>
+</text>
+<text class="text" xml:space="preserve">
+<tspan x="378" y="30"><tspan class="user">omar@faruk</tspan><tspan class="dots"> ───────────────────────────────────────────────────</tspan></tspan>
+<tspan x="378" y="50"><tspan class="text">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">macOS, Arch Linux</tspan></tspan>
+<tspan x="378" y="70"><tspan class="text">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="dots"> .................... </tspan><tspan class="value">set BIRTHDAY in update_stats.py</tspan></tspan>
+<tspan x="378" y="90"><tspan class="text">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="dots"> ................................. </tspan><tspan class="value">UConn, Class of 2028</tspan></tspan>
+<tspan x="378" y="110"><tspan class="text">. </tspan><tspan class="key">Kernel</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">Computer Science, AI/ML</tspan></tspan>
+<tspan x="378" y="130"><tspan class="text">. </tspan><tspan class="key">WM</tspan><tspan class="text">:</tspan><tspan class="dots"> .................................................. </tspan><tspan class="value">bspwm</tspan></tspan>
+<tspan x="378" y="150"><tspan class="text">. </tspan><tspan class="key">Terminal</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................... </tspan><tspan class="value">Ghostty, Alacritty</tspan></tspan>
+<tspan x="378" y="170"><tspan class="text">. </tspan><tspan class="key">Theme</tspan><tspan class="text">:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">Catppuccin Mocha</tspan></tspan>
+<tspan x="378" y="210"><tspan class="text">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="text">:</tspan><tspan class="dots"> ... </tspan><tspan class="value">Python, Go, TypeScript, C++, Java</tspan></tspan>
+<tspan x="378" y="230"><tspan class="text">. </tspan><tspan class="key">Languages.Computer</tspan><tspan class="text">:</tspan><tspan class="dots"> ............ </tspan><tspan class="value">HTML, CSS, SQL, YAML, LaTeX</tspan></tspan>
+<tspan x="378" y="250"><tspan class="text">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="text">:</tspan><tspan class="dots"> .................................... </tspan><tspan class="value">English</tspan></tspan>
+<tspan x="378" y="290"><tspan class="text">. </tspan><tspan class="key">Projects.Current</tspan><tspan class="text">:</tspan><tspan class="dots"> ........... </tspan><tspan class="value">mcp-x-ray, Chronos, Prometheus</tspan></tspan>
+<tspan x="378" y="310"><tspan class="text">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="text">:</tspan><tspan class="dots"> ............ </tspan><tspan class="value">Linux ricing, Roblox game dev</tspan></tspan>
+<tspan x="378" y="330"><tspan class="text">. </tspan><tspan class="key">Hobbies.Other</tspan><tspan class="text">:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">Cars, streetwear, VALORANT</tspan></tspan>
+<tspan x="378" y="350"><tspan class="text">- Contact</tspan><tspan class="dots"> ────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="378" y="370"><tspan class="text">. </tspan><tspan class="key">Website</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................................ </tspan><tspan class="value">ofaruk.dev</tspan></tspan>
+<tspan x="378" y="390"><tspan class="text">. </tspan><tspan class="key">Email</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">omarfarukk108@gmail.com</tspan></tspan>
+<tspan x="378" y="410"><tspan class="text">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="text">:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">omar-faruko</tspan></tspan>
+<tspan x="378" y="430"><tspan class="text">- GitHub Stats</tspan><tspan class="dots"> ───────────────────────────────────────────────</tspan></tspan>
+<tspan x="378" y="450"><tspan class="text">. </tspan><tspan class="key">Repos</tspan><tspan class="text">:</tspan><tspan class="dots"> ........ </tspan><tspan class="value">-</tspan><tspan class="text"> {Contributed: </tspan><tspan class="value">-</tspan><tspan class="text">}</tspan><tspan class="text"> | </tspan><tspan class="key">Stars</tspan><tspan class="text">:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">-</tspan></tspan>
+<tspan x="378" y="470"><tspan class="text">. </tspan><tspan class="key">Commits</tspan><tspan class="text">:</tspan><tspan class="dots"> ....................... </tspan><tspan class="value">-</tspan><tspan class="text"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">:</tspan><tspan class="dots"> .......... </tspan><tspan class="value">-</tspan></tspan>
+<tspan x="378" y="490"><tspan class="text">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="text">:</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">-</tspan><tspan class="text"> ( </tspan><tspan class="add">-++</tspan><tspan class="text">, </tspan><tspan class="delete">---</tspan><tspan class="text"> )</tspan></tspan>
+</text>
+</svg>
